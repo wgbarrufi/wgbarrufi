@@ -19,8 +19,8 @@
 <div>
   <a href="mailto:wagnerbarrufi320@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://instagram.com/wagner.x_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"> </a>
-  <a href="https://instagram.com/wagner.barrufi.1" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"> </a>
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"> </a>
+  <a href="https://facebook.com/wagner.barrufi.1" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"> </a>
+  <a href="https://open.spotify.com/user/gqclgvecdws8sw1kebm5vuuo7?si=YwJFdCEeT7OL6Af6bhqSLw" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"> </a>
 </div>
 
 
